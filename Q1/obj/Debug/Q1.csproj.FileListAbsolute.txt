@@ -1,0 +1,6 @@
+D:\Estudos\DTI-Digital\DTI-Digital\Q1\bin\Debug\Q1.exe.config
+D:\Estudos\DTI-Digital\DTI-Digital\Q1\bin\Debug\Q1.exe
+D:\Estudos\DTI-Digital\DTI-Digital\Q1\bin\Debug\Q1.pdb
+D:\Estudos\DTI-Digital\DTI-Digital\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+D:\Estudos\DTI-Digital\DTI-Digital\Q1\obj\Debug\Q1.exe
+D:\Estudos\DTI-Digital\DTI-Digital\Q1\obj\Debug\Q1.pdb
